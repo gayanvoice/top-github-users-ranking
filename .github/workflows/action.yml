@@ -1,0 +1,24 @@
+name: Top GitHub Users Ranking
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  ranking:
+    runs-on: ubuntu-24.04
+
+    steps:
+      - uses: actions/checkout@v7.0.1
+
+      - uses: actions/setup-node@v7.0.0
+        with:
+          node-version: '24'
+
+      - uses: gayanvoice/top-github-users-ranking-action@master
+        env:
+          INSIGHTS_TOKEN: ${{ github.token }}
