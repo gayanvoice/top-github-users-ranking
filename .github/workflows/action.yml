@@ -19,6 +19,6 @@ jobs:
         with:
           node-version: '24'
 
-      - uses: gayanvoice/top-github-users-ranking-action@main
+      - uses: gayanvoice/top-github-users-ranking-action@1.0.0
         env:
           INSIGHTS_TOKEN: ${{ github.token }}
