@@ -4,7 +4,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 
 | Countries | Current users | Retained users | Total users |
 | ---: | ---: | ---: | ---: |
-| 140 | 123721 | 64 | 123785 |
+| 140 | 123711 | 413 | 124124 |
 
 ## Countries
 
@@ -94,12 +94,12 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 | 82 | [Mongolia](mongolia.md) | 863 | 0 | 863 | public contributions |
 | 83 | [Montenegro](montenegro.md) | 921 | 0 | 921 | public contributions |
 | 84 | [Morocco](morocco.md) | 990 | 64 | 1054 | public contributions |
-| 85 | [Mozambique](mozambique_.md) | 975 | 0 | 975 | public contributions |
-| 86 | [Myanmar](myanmar.md) | 958 | 0 | 958 | public contributions |
-| 87 | [Namibia](namibia.md) | 890 | 0 | 890 | public contributions |
-| 88 | [Nepal](nepal.md) | 973 | 0 | 973 | public contributions |
+| 85 | [Mozambique](mozambique_.md) | 974 | 60 | 1034 | public contributions |
+| 86 | [Myanmar](myanmar.md) | 960 | 79 | 1039 | public contributions |
+| 87 | [Namibia](namibia.md) | 890 | 85 | 975 | public contributions |
+| 88 | [Nepal](nepal.md) | 973 | 65 | 1038 | public contributions |
 | 89 | [Netherlands](netherlands.md) | 924 | 0 | 924 | public contributions |
-| 90 | [New Zealand](new_zealand.md) | 963 | 0 | 963 | public contributions |
+| 90 | [New Zealand](new_zealand.md) | 952 | 60 | 1012 | public contributions |
 | 91 | [Nicaragua](nicaragua.md) | 970 | 0 | 970 | public contributions |
 | 92 | [Nigeria](nigeria.md) | 992 | 0 | 992 | public contributions |
 | 93 | [Norway](norway.md) | 890 | 0 | 890 | public contributions |
@@ -150,7 +150,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 | 138 | [Yemen](yemen.md) | 929 | 0 | 929 | public contributions |
 | 139 | [Zambia](zambia.md) | 883 | 0 | 883 | public contributions |
 | 140 | [Zimbabwe](zimbabwe.md) | 924 | 0 | 924 | public contributions |
-| | **Total** | **123721** | **64** | **123785** | |
+| | **Total** | **123711** | **413** | **124124** | |
 
 **Current users** appear in the latest source snapshot for that country. **Retained users** appeared in earlier cached lists but are absent from that snapshot. Their badges display `> N`, where `N` is the country's current user count. **Total users** includes both current and retained users.
 
