@@ -4,7 +4,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 
 | Countries | Current users | Retained users | Total users |
 | ---: | ---: | ---: | ---: |
-| 140 | 123711 | 413 | 124124 |
+| 140 | 123713 | 480 | 124193 |
 
 ## Countries
 
@@ -100,7 +100,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 | 88 | [Nepal](markdown/nepal.md) | 973 | 65 | 1038 | public contributions |
 | 89 | [Netherlands](markdown/netherlands.md) | 924 | 0 | 924 | public contributions |
 | 90 | [New Zealand](markdown/new_zealand.md) | 952 | 60 | 1012 | public contributions |
-| 91 | [Nicaragua](markdown/nicaragua.md) | 970 | 0 | 970 | public contributions |
+| 91 | [Nicaragua](markdown/nicaragua.md) | 972 | 67 | 1039 | public contributions |
 | 92 | [Nigeria](markdown/nigeria.md) | 992 | 0 | 992 | public contributions |
 | 93 | [Norway](markdown/norway.md) | 890 | 0 | 890 | public contributions |
 | 94 | [Oman](markdown/oman.md) | 913 | 0 | 913 | public contributions |
@@ -150,7 +150,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 | 138 | [Yemen](markdown/yemen.md) | 929 | 0 | 929 | public contributions |
 | 139 | [Zambia](markdown/zambia.md) | 883 | 0 | 883 | public contributions |
 | 140 | [Zimbabwe](markdown/zimbabwe.md) | 924 | 0 | 924 | public contributions |
-| | **Total** | **123711** | **413** | **124124** | |
+| | **Total** | **123713** | **480** | **124193** | |
 
 **Current users** appear in the latest source snapshot for that country. **Retained users** appeared in earlier cached lists but are absent from that snapshot. Their badges display `> N`, where `N` is the country's current user count. **Total users** includes both current and retained users.
 
