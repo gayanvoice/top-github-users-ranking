@@ -4,7 +4,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 
 | Countries | Current users | Retained users | Total users |
 | ---: | ---: | ---: | ---: |
-| 140 | 123275 | 1353 | 124628 |
+| 140 | 123280 | 1423 | 124703 |
 
 ## Countries
 
@@ -108,7 +108,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 | 96 | [Palestine](palestine.md) | 986 | 77 | 1063 | public contributions |
 | 97 | [Panama](panama.md) | 831 | 0 | 831 | public contributions |
 | 98 | [Paraguay](paraguay.md) | 960 | 58 | 1018 | public contributions |
-| 99 | [Peru](peru.md) | 926 | 0 | 926 | public contributions |
+| 99 | [Peru](peru.md) | 931 | 70 | 1001 | public contributions |
 | 100 | [Philippines](philippines.md) | 962 | 0 | 962 | public contributions |
 | 101 | [Poland](poland.md) | 935 | 0 | 935 | public contributions |
 | 102 | [Portugal](portugal.md) | 961 | 0 | 961 | public contributions |
@@ -150,7 +150,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 | 138 | [Yemen](yemen.md) | 929 | 0 | 929 | public contributions |
 | 139 | [Zambia](zambia.md) | 883 | 0 | 883 | public contributions |
 | 140 | [Zimbabwe](zimbabwe.md) | 924 | 0 | 924 | public contributions |
-| | **Total** | **123275** | **1353** | **124628** | |
+| | **Total** | **123280** | **1423** | **124703** | |
 
 **Current users** appear in the latest source snapshot for that country. **Retained users** appeared in earlier cached lists but are absent from that snapshot. Their badges display `> N`, where `N` is the country's current user count. **Total users** includes both current and retained users.
 
