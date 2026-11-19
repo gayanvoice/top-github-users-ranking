@@ -4,7 +4,7 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 
 | Countries | Current users | Retained users | Total users |
 | ---: | ---: | ---: | ---: |
-| 140 | 121123 | 5223 | 126346 |
+| 140 | 121124 | 5336 | 126460 |
 
 ## Countries
 
@@ -145,12 +145,12 @@ Country GitHub user rankings, SVG badges and copyable snippets. This README is u
 | 133 | [United States of America](markdown/united_states_of_america.md) | 74 | 0 | 74 | public contributions |
 | 134 | [Uruguay](markdown/uruguay.md) | 580 | 388 | 968 | public contributions |
 | 135 | [Uzbekistan](markdown/uzbekistan.md) | 967 | 91 | 1058 | public contributions |
-| 136 | [Venezuela](markdown/venezuela.md) | 981 | 0 | 981 | public contributions |
+| 136 | [Venezuela](markdown/venezuela.md) | 982 | 113 | 1095 | public contributions |
 | 137 | [Vietnam](markdown/vietnam.md) | 934 | 0 | 934 | public contributions |
 | 138 | [Yemen](markdown/yemen.md) | 929 | 0 | 929 | public contributions |
 | 139 | [Zambia](markdown/zambia.md) | 883 | 0 | 883 | public contributions |
 | 140 | [Zimbabwe](markdown/zimbabwe.md) | 924 | 0 | 924 | public contributions |
-| | **Total** | **121123** | **5223** | **126346** | |
+| | **Total** | **121124** | **5336** | **126460** | |
 
 **Current users** appear in the latest source snapshot for that country. **Retained users** appeared in earlier cached lists but are absent from that snapshot. Their badges display `> N`, where `N` is the country's current user count. **Total users** includes both current and retained users.
 
